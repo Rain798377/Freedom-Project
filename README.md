@@ -22,3 +22,6 @@ INSTRUCTIONS:
 TO CUSTOMIZE WEBSITE:
 1. go to dist file
 2. edit index.html to change it
+
+
+THIS PROXY IS A LIST OF PROXY'S AVAILIBLE TO USE!!!!!
